@@ -1,4 +1,5 @@
 <p align="center"><img src="assets/area-zero-logo-full.svg" alt="AREAZERO logo" width="220"></p>
+<p align="center"><img src="assets/hero.svg" alt="AREAZERO Skill Lab original technical cover artwork" width="100%"></p>
 
 # Terraform State Transition Audit
 
